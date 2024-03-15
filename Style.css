@@ -1,0 +1,29 @@
+
+p{
+    color: blue;
+}
+
+.note{
+    font: 20px;
+}
+
+li[value="2"]{
+    color: green;
+}
+
+#id-selector-demo{
+    color: red;
+}
+
+li[value="4"]{
+    color: purple;
+}
+
+li[value="5"]{
+    color: orange;
+}
+
+*{
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+}
